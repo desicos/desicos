@@ -38,7 +38,12 @@ To access all and more fuctionalities from the Python IDE in Abaqus::
 Cone Ply Piece Optimization Tool
 ---------------------------------
 
-See documentation for more details.
+Finds the optimal ply piece shape for laminated cones. There are four different tools that can be used:
+
+- The Input-Tool
+- The Cone Geometry-Tool
+- The Plot Ply Piece-Tool
+- The Evaluation-Tool
 
 
 Semi-analytical tools
