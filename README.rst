@@ -34,6 +34,13 @@ To access all and more fuctionalities from the Python IDE in Abaqus::
     >>> cc.fromDB('huehne_2008_z07')
     >>> cc.create_model()
 
+
+Cone Ply Piece Optimization Tool
+---------------------------------
+
+See documentation for more details.
+
+
 Semi-analytical tools
 ---------------------
 
@@ -53,6 +60,7 @@ can now be accessed doing::
 The aim of this module is to provide a fast and free solver for the linear and
 non-linear buckling problems being investigated in the context of DESICOS.
 
+
 Stochastic tools
 ----------------
 
@@ -60,13 +68,6 @@ Developed by Pavel Schor (schor.pavel@gmail.com), this package brings
 algorithms to create new imperfection data based on initially given samples.
 This module is contained inside the "stochastic" folder.
 
-More information in:
-
-https://github.com/saullocastro/desicos/blob/master/doc/source/firstEx.rst
-
-Known issues:
-
-https://github.com/saullocastro/desicos/blob/master/doc/source/overview.rst
 
 Licensing
 ---------
